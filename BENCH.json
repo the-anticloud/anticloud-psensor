@@ -540,9 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "fde89b9e93abc3ab8931ba0ed573f0ff03edd762",
-   "url": "https://github.com/halocore099/PsensorGUI",
-   "sha_verified_from": "agent_sha_api.json/github search (class-A)"
+   "url": "https://github.com/chinf/psensor",
+   "head": "4270c903e8007017b80c6c817dd41cf699f00df1",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/halocore099/PsensorGUI"
   }
  }
 }
